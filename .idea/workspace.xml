@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6827a733-9b22-495a-81d9-4d0abc7cd11a" name="Changes" comment="changed naming">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6827a733-9b22-495a-81d9-4d0abc7cd11a" name="Changes" comment="finished simple implementation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/Writeup/ImgData/contAdjCropped.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project1/Writeup/ImgData/contAdjCropped.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/Writeup/ImgData/noOffset.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project1/Writeup/ImgData/noOffset.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/Writeup/ImgData/padding0.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project1/Writeup/ImgData/padding0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/Writeup/ImgData/padding1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project1/Writeup/ImgData/padding1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/Writeup/ImgData/rawCropped.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project1/Writeup/ImgData/rawCropped.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +103,7 @@
       <workItem from="1725123773976" duration="400000" />
       <workItem from="1725124201039" duration="155000" />
       <workItem from="1725124362211" duration="3702000" />
-      <workItem from="1725128661973" duration="9460000" />
+      <workItem from="1725128661973" duration="10427000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -155,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725073232402</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="finished simple implementation">
+      <option name="closed" value="true" />
+      <created>1725138488378</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725138488378</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +177,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="line identification" />
     <MESSAGE value="changed naming" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed naming" />
+    <MESSAGE value="finished simple implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished simple implementation" />
   </component>
 </project>
