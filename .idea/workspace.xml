@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6827a733-9b22-495a-81d9-4d0abc7cd11a" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6827a733-9b22-495a-81d9-4d0abc7cd11a" name="Changes" comment="line identification">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project1/colorize.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project1/colorize.ipynb" afterDir="false" />
     </list>
@@ -60,7 +59,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/media/frank/UserShared/Coursework/CS180/Project1/Writeup/ImgData/rawCropped.png",
+    "last_opened_file_path": "/media/frank/UserShared/Coursework/CS180/venv/bin/python3.12",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -99,7 +98,9 @@
       <workItem from="1724977434010" duration="25000" />
       <workItem from="1724977463157" duration="359000" />
       <workItem from="1724977826233" duration="8095000" />
-      <workItem from="1725030809073" duration="14008000" />
+      <workItem from="1725030809073" duration="23153000" />
+      <workItem from="1725072233148" duration="36000" />
+      <workItem from="1725072271031" duration="576000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -125,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724977562802</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="line identification">
+      <option name="closed" value="true" />
+      <created>1725045166531</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725045166531</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +156,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="line identification" />
+    <option name="LAST_COMMIT_MESSAGE" value="line identification" />
   </component>
 </project>
