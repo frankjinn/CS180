@@ -1,1 +1,3 @@
+Shifts of G and R relative to B. [x, y]
 melons: [10, 83] [13, 179]
+Emir: [22, 51] [41, 107]
