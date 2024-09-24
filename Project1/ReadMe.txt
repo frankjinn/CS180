@@ -1,0 +1,2 @@
+All files can be colourized with main.py, except "Emir". "Emir" must be run through colorizeEdgeDetection.ipynb, as this file uses a seperate edge detection method
+to align the images. Shifts for all the images are recorded in shifts.txt.
