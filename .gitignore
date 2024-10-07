@@ -2,3 +2,6 @@
 /Project1/data/
 /.venv
 /ColourizingGorskii/data
+*.pts
+/Morphing/meanFace/imagesSpatialNorm/*.jpg
+/Morphing/meanFace/images/*.jpg
