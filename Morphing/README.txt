@@ -1,0 +1,1 @@
+Each jupyter notebook corresponds to a different part of the project. Gif images are not working in PDF file.
